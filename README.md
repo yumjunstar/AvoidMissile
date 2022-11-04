@@ -1,2 +1,3 @@
-# AvoidMissile
-C언어 최종 프로젝트
+# Avoid Missile
+
+Still working this
