@@ -1,6 +1,7 @@
 //Arcade Spaceship Game
  /*
- * © 2021 Junwoo Yeom <yumjunstar@naver.com>
+ * © 2021 Junwoo Yeom 
+ * © 2022 Nemonet TYP
  */
  #define MAX_COL 120
  #define MAX_ROW 30
